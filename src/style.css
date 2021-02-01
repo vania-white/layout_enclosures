@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+body {
+  background-color: black;
+}
+
+.first-block {
+  width: 350px;
+  border: 1px solid #e95d49;
+  background-color: #308dc0;
+  margin: 20px 20px 40px;
+  padding: 10px;
+}
+
+.second-block {
+  border: 1px solid #e95d49;
+  background-color: #ffa500;
+  padding: 10px;
+}
+
+.third-block {
+  border: 1px solid #e95d49;
+  background-color: #ddd;
+  padding: 10px;
+}
